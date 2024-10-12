@@ -4,7 +4,7 @@ function App() {
       <div className="w-[384px] tablet:w-[456px] mobile:w-[327px] h-[611px] mobile:h-[579px] rounded-[12px] bg-[#1f1f1f] mx-auto mt-[174.5px] tablet:mt-[206.5px] mobile:mt-[116.5px] flex flex-col items-center">
         <img
           className="w-[88px] h-[88px] rounded-full mt-[40px] mobile:mt-[24px] mx-auto"
-          src="/avatar-jessica.jpeg"
+          src="avatar-jessica.jpeg"
           alt="Avatar"
         />
         <h1 className="font-inter font-semibold text-[24px] leading-[150%] text-white text-center mt-[24px]">
